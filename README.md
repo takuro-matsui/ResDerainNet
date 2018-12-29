@@ -12,8 +12,8 @@ Most outdoor vision systems can be influenced by rainy weather conditions. We pr
 `demo_synthesize.m`
 
 ## Installation
-- [MATLAB R2018a](https://jp.mathworks.com/products/new_products/release2018a.html)
-- [caffe version 1.0.0-rc3](http://caffe.berkeleyvision.org/tutorial/interfaces.html)
+- [MATLAB R2018a](https://ww2.mathworks.cn/en/products/new_products/release2018a.html)
+- [caffe version 1.0.0-rc3](http://caffe.berkeleyvision.org/)
 
 ## Contributions
 - A residual deep network is introduced to remove rain noise.
