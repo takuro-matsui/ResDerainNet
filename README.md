@@ -4,8 +4,7 @@
 Most outdoor vision systems can be influenced by rainy weather conditions. We present a single-image rain removal method, called ResDerainNet.The proposed network can automatically detect rain streaks and remove them. Based on the deep convolutional neural networks (CNN), we learn the mapping relationship between rainy and residual images from data. Furthermore, for training, we synthesize rainy images considering various rain models. Specifically, we mainly focus on the composite models as well as orientations and scales of rain streaks.
 
 ![net_architecture.png](https://qiita-image-store.s3.amazonaws.com/0/238733/4201579a-04cf-1ef2-86f6-4dd6d29a9c9d.png)
-![generate_rain_noise.png](https://qiita-image-store.s3.amazonaws.com/0/238733/dc272717-b7e8-7e3b-a316-9b37daf15fdb.png)
-
+<img src="https://qiita-image-store.s3.amazonaws.com/0/238733/dc272717-b7e8-7e3b-a316-9b37daf15fdb.png" width="500">
 ## Demo
 - De-rain:
 `demo_derain.m`
@@ -30,3 +29,4 @@ This speeds up the training process and improves the de-raining performance.
 ## Author
 
 [takuro-matsui](https://github.com/takuro-matsui)
+If you have any questions, please feel free to send us an e-mail matsui@tkhm.keio.elec.ac.jp.
