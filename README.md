@@ -29,4 +29,5 @@ This speeds up the training process and improves the de-raining performance.
 ## Author
 
 [takuro-matsui](https://github.com/takuro-matsui)
+
 If you have any questions, please feel free to send us an e-mail matsui@tkhm.keio.elec.ac.jp.
