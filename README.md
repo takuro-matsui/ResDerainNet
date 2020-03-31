@@ -1,5 +1,5 @@
 # ResDerainNet
-##Single-Image Rain Removal Using Residual Deep Learning (ICIP'18)
+## Single-Image Rain Removal Using Residual Deep Learning (ICIP'18)
 [[Paper Link](https://ieeexplore.ieee.org/document/8451612)] 
 
 Most outdoor vision systems can be influenced by rainy weather conditions. In this paper, we address a rain removal problem from a single image. Some existing de-raining methods suffer from hue change due to neglect of the information in low frequency layer. Others fail in assuming enough rainy image models. To solve them, we propose a residual deep network architecture called ResDerainNet. Based on the deep convolutional neural network (CNN), we learn the mapping relationship between rainy and residual images from data. Furthermore, for training, we synthesize rainy images considering various rain models. Specifically, we mainly focus on the composite models as well as orientations and scales of rain streaks. The experiments demonstrate that our proposed model is applicable to a variety of images. Compared with state-of-the-art methods, our proposed method achieves better results on both synthetic and real-world images.
